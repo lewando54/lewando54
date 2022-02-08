@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lewando54
+- 👀 I’m interested in music/making music, programming, video games and movies/series
+- 🌱 I’m currently learning react, php, rust
+- 📫 How to reach me lewando54@gmail.com
