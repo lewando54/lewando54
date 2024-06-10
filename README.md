@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @lewando54
-- 👀 I’m interested in music/making music, programming, video games and movies/series
-- 🌱 I’m currently learning svelte, react, php, C99, python
-- 📫 How to reach me lewando54@gmail.com
+Junior React⚛️/React Native⚛️📱 Developer @ [Software Bay](https://softwarebay.io/en)
+Studying CS @ [Politechnika Łódzka (Tech Uni of Lodz)](https://p.lodz.pl/)
