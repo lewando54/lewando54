@@ -1,2 +1,2 @@
-- Junior React⚛️/React Native⚛️📱 Developer @ [Software Bay](https://softwarebay.io/en)
+- Junior React⚛️/React Native⚛️📱 Developer
 - Studying CS @ [Politechnika Łódzka (Tech Uni of Lodz)](https://p.lodz.pl/)
